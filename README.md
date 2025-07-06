@@ -57,7 +57,7 @@ Excel (CSV): For raw data preparation and monthly aggregation
 
 Narrative Layer: Business storytelling integrated into data visuals
 
-## 📌 Summary
+## 📌 Conclusion
 By leveraging historical data and market behavior, this project delivers actionable insights that can optimize trading strategies for anyone engaged in **onion procurement, resale, or distribution.**
 
    **💡 Buy Low (Apr–Jul), Sell High (Oct–Jan) – Let data drive your agri trading decisions.**
