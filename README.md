@@ -1,4 +1,4 @@
-## 📈 Business Analysis for Agri-Commodity Traders: Onion Price Trends (2016–2022)
+## 📈 Business Analysis for Traders: Onion Price Trends (2016–2022)
 
 ## 🧾 Project Overview
 This project presents a 7-year historical analysis of onion market prices (2016–2022) to help agri-commodity traders, produce investors, and supply chain stakeholders make data-informed decisions about optimal buying and selling periods. The study uses visual analytics to uncover seasonal trends, highlight market volatility, and offer strategic recommendations grounded in real data.
